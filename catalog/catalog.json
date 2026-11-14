@@ -4757,9 +4757,9 @@
         "restartRequired": false
       },
       "category": "writer",
-      "iconUrl": "https://raw.githubusercontent.com/Pasta-Devs/Marinara-Agents/main/artwork/agent-covers/web-researcher.png",
+      "iconUrl": "https://raw.githubusercontent.com/HavocK-1/Marinara-Agents/test/web-researcher-catalog/artwork/agent-covers/web-researcher.png",
       "artifact": {
-        "url": "https://raw.githubusercontent.com/Pasta-Devs/Marinara-Agents/main/artifacts/web-researcher-1.0.0.zip",
+        "url": "https://raw.githubusercontent.com/HavocK-1/Marinara-Agents/test/web-researcher-catalog/artifacts/web-researcher-1.0.0.zip",
         "sha256": "857ed7c4b2df002fb734aee63c7548797a673ac36db69481e519a1ea44e00a85",
         "bytes": 1789
       },
